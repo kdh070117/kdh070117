@@ -1,3 +1,3 @@
-streamlit
-pandas
-plotly
+git add requirements.txt       # 변경한 파일을 Git에 추가하고
+git commit -m "Fix: include plotly"  # 왜 바꿨는지 메시지를 적고
+git push origin main 
